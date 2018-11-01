@@ -1,0 +1,16 @@
+platform :ios, ‘8.0’
+target 'YOSwiftWeather' do
+
+
+
+
+pod 'SVProgressHUD'
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'IGListKit'
+
+
+
+
+
+end
